@@ -6,7 +6,7 @@
 - <b>Active directory lab</b>
   - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab)
 - <b>Rebuild profile lab</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile) 
 - <b>File server</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
