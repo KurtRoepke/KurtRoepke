@@ -30,9 +30,8 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor -->
 
-<
+
 
 Here are some ideas to get you started:
 
