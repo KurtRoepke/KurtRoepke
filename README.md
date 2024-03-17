@@ -5,7 +5,7 @@
 - <b>Active directory lab</b>
   - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
 - <b>Rebuild profile lab</b>
-  - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile) 
+  - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile/blob/main/README.md) 
 - <b>File server</b>
   - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup)
 - <b>AWS vpn</b>
