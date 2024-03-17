@@ -7,7 +7,7 @@
 - <b>Rebuild profile lab</b>
   - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile/blob/main/README.md) 
 - <b>File server</b>
-  - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup)
+  - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup/blob/main/README.md)
 - <b>AWS vpn</b>
   - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-)
 <!--- <b>next repo</b>
