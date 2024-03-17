@@ -4,7 +4,7 @@
 <h2> Information technology projects:</h2>
 
 - <b>Active directory lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab)
 - <b>Rebuild profile lab</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>File server</b>
