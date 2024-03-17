@@ -16,11 +16,12 @@
 
 <h2>Certifications</h2>
 
-- 
-- 
+- Comptia a+
 
-- 
-- 
+- Google it support profesional
+
+- Comptia network+  (coming soon)
+  
 
 <!-- <h2>Connect with me:</h2>
 
