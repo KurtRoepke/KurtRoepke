@@ -19,7 +19,7 @@
 
 - Google it support profesional
 
-- Comptia network+  (coming soon)
+- Comptia network+  (in progress)
   
 
 <!-- <h2>Connect with me:</h2>
