@@ -1,4 +1,4 @@
-<h1>Hi, i'm Kurt <br/><a href="https">IT enthusiast</a>
+<h1>Hi, i'm Kurt <br/><a href="https">IT enthusiast</a> 
 
 <h2> Information technology projects:</h2>
 
