@@ -10,9 +10,9 @@
 - <b>File server</b>
   - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup)
 - <b>AWS vpn</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b></b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-)
+<!--- <b>next repo</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)  -->
 
 <h2>Certifications</h2>
 
