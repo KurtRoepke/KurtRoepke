@@ -17,7 +17,7 @@
 
 - Comptia a+
 
-- Google it support profesional
+- Google IT support professional certificate
 
 - Comptia network+  (in progress)
   
