@@ -3,7 +3,7 @@
 <h2> Information technology projects:</h2>
 
 - <b>Active directory lab</b>
-  - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab)
+  - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
 - <b>Rebuild profile lab</b>
   - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile) 
 - <b>File server</b>
