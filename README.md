@@ -19,7 +19,7 @@
 
 - Google IT support professional certificate
 
-- Comptia network+  (in progress)
+- Cisco CCNA
   
 
 <!-- <h2>Connect with me:</h2>
