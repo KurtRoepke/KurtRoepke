@@ -3,13 +3,13 @@
 <h2> Information technology projects:</h2>
 
 - <b>Active directory lab</b>
-  - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
+- [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
 - <b>Rebuild profile lab</b>
-  - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile/blob/main/README.md) 
+- [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile/blob/main/README.md) 
 - <b>File server</b>
-  - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup/blob/main/README.md)
+ - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup/blob/main/README.md)
 - <b>AWS vpn</b>
-  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
+ - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
 - <b>Ikev2 site to site vpn</b>
 
 - <b>Bind9 dns server</b>
