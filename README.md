@@ -16,7 +16,7 @@
 - [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
 - <b>Rebuild profile lab</b>
 - [Secondary bind9 server ](https://github.com/KurtRoepke/bind9-secondary-dns/blob/main/README.md) 
-- <b>File server</b>
+
     
 
 <h2>Certifications</h2>
