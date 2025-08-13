@@ -11,7 +11,12 @@
 - <b>AWS vpn</b>
  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
 - <b>Ikev2 site to site vpn</b>
-  - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
+ - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
+  - - <b>Active directory lab</b>
+- [Bind9 dns with cisco asa firewall]()
+- <b>Rebuild profile lab</b>
+- [Secondary bind9 server ]() 
+- <b>File server</b>
     
 
 <h2>Certifications</h2>
