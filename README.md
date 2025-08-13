@@ -2,6 +2,12 @@
 
 <h2> Information technology projects:</h2>
 
+- <b>Ikev2 site to site vpn</b>
+ - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
+- <b>Active directory lab</b>
+- [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
+- <b>Rebuild profile lab</b>
+- [Secondary bind9 server ](https://github.com/KurtRoepke/bind9-secondary-dns/blob/main/README.md) 
 - <b>Active directory lab</b>
 - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
 - <b>Rebuild profile lab</b>
@@ -10,12 +16,7 @@
  - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup/blob/main/README.md)
 - <b>AWS vpn</b>
  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
-- <b>Ikev2 site to site vpn</b>
- - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
-- <b>Active directory lab</b>
-- [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
-- <b>Rebuild profile lab</b>
-- [Secondary bind9 server ](https://github.com/KurtRoepke/bind9-secondary-dns/blob/main/README.md) 
+
 
     
 
