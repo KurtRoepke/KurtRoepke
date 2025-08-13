@@ -11,9 +11,6 @@
 - <b>AWS vpn</b>
  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
 - <b>Ikev2 site to site vpn</b>
-
-- <b>Bind9 dns server</b>
-<!--- <b>next repo</b>
   - [ Ikev2 vpn with ipsec policy ](https://https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
     
 
