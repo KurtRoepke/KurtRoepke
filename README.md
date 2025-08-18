@@ -6,7 +6,9 @@
  - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
 - <b>Active directory lab</b>
 - [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
-- <b>Rebuild profile lab</b>
+- <b>osfp lab</b>
+ - [ ospf lab ](https://)
+ - <b>Rebuild profile lab</b>
 - [Secondary bind9 server ](https://github.com/KurtRoepke/bind9-secondary-dns/blob/main/README.md) 
 - <b>Active directory lab</b>
 - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
