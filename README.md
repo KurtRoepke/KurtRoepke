@@ -6,17 +6,17 @@
  - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
 
 - [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
-- <b>osfp lab</b>
+
  - [ ospf lab ](https://github.com/KurtRoepke/ospf-lab/blob/main/README.md)
- - <b>Rebuild profile lab</b>
+
 - [Secondary bind9 server ](https://github.com/KurtRoepke/bind9-secondary-dns/blob/main/README.md) 
-- <b>Active directory lab</b>
+
 - [Setting up Active directory home lab](https://github.com/KurtRoepke/Active-Directory-Lab/blob/main/README.md)
-- <b>Rebuild profile lab</b>
+
 - [Corrupted profile rebuild](https://github.com/KurtRoepke/Rebuild-profile/blob/main/README.md) 
-- <b>File server</b>
+
  - [Create a file server Windows server 2022](https://github.com/KurtRoepke/File-Server-Setup/blob/main/README.md)
-- <b>AWS vpn</b>
+
  - [Build a vpn server in the cloud](https://github.com/KurtRoepke/AWS-vpn-/blob/main/README.md)
 
 
