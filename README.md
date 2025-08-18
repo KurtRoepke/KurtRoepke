@@ -2,9 +2,9 @@
 
 <h2> Information technology projects:</h2>
 
-- <b>Ikev2 site to site vpn</b>
+
  - [ Ikev2 vpn with ipsec policy ](https://github.com/KurtRoepke/ikev2-vpn/blob/main/README.md)
-- <b>Active directory lab</b>
+
 - [Bind9 dns with cisco asa firewall](https://github.com/KurtRoepke/bind9-dns/blob/main/README.md)
 - <b>osfp lab</b>
  - [ ospf lab ](https://github.com/KurtRoepke/ospf-lab/blob/main/README.md)
